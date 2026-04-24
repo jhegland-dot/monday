@@ -9,7 +9,7 @@
 // 4. It updates that project's "LINK TO: Invoice Request" column with the new invoice item ID
 
 // ─── CONFIGURATION ─────────────────────────────────────────────────────────────
-const MONDAY_API_TOKEN = "YOUR_MONDAY_API_TOKEN_HERE"; // Profile → Developers → My Access Tokens
+const MONDAY_API_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJ0aWQiOjYxODkxMzk0OCwiYWFpIjoxMSwidWlkIjo5NjMwNjEzOSwiaWFkIjoiMjAyNi0wMi0wOVQxNTo0MTo0Mi4wMDBaIiwicGVyIjoibWU6d3JpdGUiLCJhY3RpZCI6MTQzMjY4OTAsInJnbiI6InVzZTEifQ.exeQLAWLzziSBJR-ZGx9shxe1pwjH41RLTkhb9oZ1NQ"; // Profile → Developers → My Access Tokens
 const BOARD_A_ID = "8193778717";       // Invoice Request / Payment Tracking
 const BOARD_B_ID = "7696868656";       // Projects
 const BOARD_B_INTACCT_COL = "intacct_code_mkmkcg26";   // "Intacct Code" text column on Projects
